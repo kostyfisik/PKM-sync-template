@@ -1,9 +1,9 @@
 ---
 id: 4tqksn217141vuciveqkwss
-title: New Link
+title: new link
 desc: ''
-updated: 1685953238860
+updated: 1685957330102
 created: 1685953238860
 ---
 -
-- [some text](test)
+- [some text](test.md)

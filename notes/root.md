@@ -2,12 +2,13 @@
 id: v8vi14bcbua8pkb18g2rrcz
 title: root
 desc: ''
-updated: 1685953258997
+updated: 1685957364149
 created: 1685690368687
 ---
 
 - # Supported features showcase
-    See [showcase link](chore.showcase). [some text](test)
+    See [showcase link](chore.showcase.md). [some text](test)
+    [another](chore.showcase.md)
 
 - # Rational
   
