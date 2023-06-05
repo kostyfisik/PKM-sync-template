@@ -1,0 +1,17 @@
+@import url("../assets/custom/dracula-theme.css");
+
+html {
+  font-size: 18px;
+  letter-spacing: 0.3px;
+}
+
+:root {
+  --ls-page-text-size: 1.2rem;
+  --ls-page-title-size: 1.7rem;
+  --ls-left-sidebar-width: 15rem;
+  --ls-font-family:  "JetBrains Mono";
+  --ct-code-font-family: "JetBrains Mono";
+  
+}
+
+
