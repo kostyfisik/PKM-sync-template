@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "f18ded438dae20e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff71de74a3543798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aecb012aa565f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chore.showcase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a60dc5f0bdc1a522",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c79818081ee241d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a33dee1fdc0ba1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a35d09561b6adc44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be1f5c7fe15e2083",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21d24fd9d7e73f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e5fd09e3ceb71d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8da5f62a81c043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chore.showcase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cc47dd86a23aa98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chore.showcase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c55dd7ed627d3a88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3bef52c140f941a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chore.showcase.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7aecb012aa565f4f",
+  "lastOpenFiles": [
+    "logseq/bak/chore.showcase.interop/2023-06-30T14_11_38.885Z.Desktop.md",
+    "logseq/bak/chore.showcase.markdown-link/2023-06-30T14_09_17.080Z.Desktop.md",
+    "logseq/bak/chore.showcase.markdown-link",
+    "chore.showcase.interop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_18_31.213Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_17_15.012Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_17_02.265Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_16_57.462Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_16_42.874Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_12_26.099Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_12_02.673Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_11_11.709Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_06_39.102Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_06_21.748Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-30T13_05_42.645Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop",
+    "root.md",
+    "logseq/bak/root/2023-06-07T15_03_33.639Z.Desktop.md",
+    "logseq/bak/chore.showcase/2023-06-27T06_44_55.858Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T16_06_39.081Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_55_12.762Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_54_50.998Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_54_26.287Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_54_20.977Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_53_53.542Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_53_17.695Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_51_30.123Z.Desktop.md",
+    "logseq/bak/chore.showcase.interop/2023-06-26T15_50_51.859Z.Desktop.md",
+    "logseq/bak/logseq/custom/2023-06-06T07_13_59.819Z.Desktop.css",
+    "logseq/bak/logseq/custom/2023-06-06T07_13_52.781Z.Desktop.css",
+    "logseq/bak/logseq/custom",
+    "logseq/bak/logseq",
+    "logseq/bak/root",
+    "chore.showcase.markdown-link",
+    "logseq/bak/chore.showcase",
+    "logseq/bak",
+    "notes/assets/sdf.jpg",
+    "notes/assets/Pasted image 20230604195944.png",
+    "notes/assets/sdf_1685897964239_0.jpg",
+    "notes/assets/showcase.logseq-logo.png",
+    "notes/assets/Pasted image 20230604195343.png",
+    "notes/assets/sdf_1685713370588_0.jpg",
+    "notes/assets/Figure_1-1_1685713247676_0.png",
+    "notes/assets/Figure_1-1.png"
+  ]
+}

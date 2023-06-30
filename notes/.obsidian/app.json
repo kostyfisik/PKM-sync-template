@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "notes/assets",
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "logseq/bak/"
+  ],
+  "readableLineLength": false
+}
