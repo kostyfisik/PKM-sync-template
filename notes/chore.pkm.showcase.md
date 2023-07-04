@@ -2,7 +2,7 @@
 id: xh95tl2xzopwyhr5m0ituf0
 title: chore.pkm.showcase
 desc: ''
-updated: 1688480970318
+updated: 1688482184841
 created: 1685891826184
 ---
 
@@ -49,12 +49,10 @@ Linking notes is the major feature of for  any knowledge management. However, th
         - [Markdown link (local, relative, with file)](chore.pkm.showcase.markdown-link.md)
         - [Markdown link (local, relative current path)](./chore.pkm.showcase.markdown-link.md)
         - [Markdown link (local, relative parent path)](../notes/chore.pkm.showcase.markdown-link.md)
-        - [Markdown link (local, absolute Dendron workspace path)](/chore.pkm.showcase.markdown-link.md)
     - without file extension `.md`
         - [Markdown link (local, relative, with file)](chore.pkm.showcase.markdown-link)
         - [Markdown link (local, relative current path)](./chore.pkm.showcase.markdown-link)
         - [Markdown link (local, relative parent path)](../notes/chore.pkm.showcase.markdown-link)
-        - [Markdown link (local, absolute Dendron workspace path)](/chore.pkm.showcase.markdown-link)
 
 
 # Images and assets
