@@ -11,8 +11,12 @@
             "id": "ee009f4df825caf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "chore.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logseq",
+                "query": "tag:#foam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "chore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,10 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "chore.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,21 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee009f4df825caf9",
+  "active": "be1f5c7fe15e2083",
   "lastOpenFiles": [
-    "test.md",
-    "chore.pkm.showcase.md",
+    "root.md",
+    "logseq/bak/root/2023-07-04T14_17_48.156Z.Desktop.md",
+    "logseq/bak/chore.pkm.showcase/2023-07-04T14_17_48.153Z.Desktop.md",
+    "logseq/bak/chore.pkm.showcase",
+    "logseq/bak/chore.pkm.settings/2023-07-04T14_17_48.145Z.Desktop.md",
+    "logseq/bak/chore.pkm.settings",
+    "logseq/bak/chore.pkm.limitations/2023-07-04T14_17_48.142Z.Desktop.md",
+    "logseq/bak/chore.pkm.limitations",
+    "logseq/bak/chore.pkm.interop/2023-07-04T14_17_48.136Z.Desktop.md",
+    "logseq/bak/chore.pkm.interop",
+    "logseq/bak/chore/2023-07-04T14_17_47.949Z.Desktop.md",
+    "logseq/bak/chore",
+    "chore.pkm.settings.md",
     "chore.md",
-    "chore.pkm.interop.md",
     "chore.pkm.limitations.md",
+    "chore.pkm.showcase.md",
+    "chore.pkm.interop.md",
+    "chore.pkm.installation.md",
+    "chore.pkm.md",
+    "chore.pkm.selection.md",
+    "test.md",
     "logseq/bak/logseq/config/2023-07-04T12_14_52.428Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-07-04T12_14_47.778Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-07-04T12_14_43.742Z.Desktop.edn",
     "logseq/bak/root/2023-07-04T12_12_53.106Z.Desktop.md",
     "logseq/bak/root",
-    "chore.pkm.selection.md",
-    "chore.pkm.settings.md",
-    "root.md",
     "chore.limitations.md",
     "root.pkm.settings.md",
     "chore.pkm.showcase.markdown-link.md",
@@ -163,21 +185,8 @@
     "journals/2023_07_01.md",
     "root.pkm.selection.md",
     "journals/2023-07-02.md",
-    "journals/2023-07-01.md",
     "Untitled 1.canvas",
-    "logseq/bak/journals/2023-07-01/2023-07-02T13_55_08.759Z.Desktop.md",
-    "logseq/bak/journals/2023-07-01",
-    "logseq/bak/journals",
-    "journals/2023-07-02 copy.md",
-    "logseq/bak/logseq/config/2023-07-02T13_53_32.445Z.Desktop.edn",
-    "logseq/bak/logseq/config",
-    "logseq/bak/logseq",
     "Untitled.canvas",
-    "logseq/bak/root.pkm.selection/2023-07-02T13_48_04.746Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_47_38.557Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_47_15.540Z.Desktop.md",
-    "logseq/bak/root/2023-07-02T13_45_15.932Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_44_40.767Z.Desktop.md",
     "notes/assets/sdf.jpg",
     "notes/assets/Pasted image 20230604195944.png",
     "notes/assets/sdf_1685897964239_0.jpg",

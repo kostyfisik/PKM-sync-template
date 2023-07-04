@@ -2,19 +2,19 @@
 id: v8vi14bcbua8pkb18g2rrcz
 title: chore
 desc: ''
-updated: 1688473456952
+updated: 1688480330688
 created: 1685690368687
 ---
 
 # Quick start
 
 See:
-- [[chore.pkm.showcase]] for examples of supported features.
 - [[chore.pkm.installation]] for setup instructions,
+- [[chore.pkm.showcase]] for examples of supported features.
 - [[chore.pkm.interop]] for instructions to switch between Personal
   Knowledge Managers (PKMs).
 - [[chore.pkm.limitations]] for usage guidelines.
-- [[chore.pkm.settings]]
+- [[chore.pkm.settings]] my settings on top of required minimum.
 
 # Rational
   

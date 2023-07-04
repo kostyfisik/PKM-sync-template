@@ -2,17 +2,33 @@
 id: e7dh1jym44nhy32npntrpjp
 title: chore.pkm.settings
 desc: ''
-updated: 1688302121676
+updated: 1688479713165
 created: 1688301887259
 ---
 
+# Color Theme
+
+I prefer dark color theme. It is already set in config files for
+#obsidian and #logseq. In VScode my color theme settings are:
+
+    "workbench.colorTheme": "Darcula",
 
 # Font
 
 I prefer using a dark theme and the [JetBrains
 Mono](https://www.jetbrains.com/lp/mono/) monospace font for
 consistency across all PKMs. Note, the JetBrains Mono font is free and
-open-source. 
+open-source. It is already set in config file for #obsidian and
+#logseq, but you might need to install it for you system. In VScode
+you my font settings are:
+
+    "workbench.colorTheme": "Darcula",
+    "editor.lineHeight": 1.5,
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'JetBrains Mono', monospace",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.letterSpacing": 0.2,
+    "editor.smoothScrolling": true,
 
 
 # Hotkeys 
@@ -26,6 +42,9 @@ similar to those in VS Code, which is my default choice of the text editor.
 
 
 # Line length
+
+I prefer explicit line break instead of line wrapping. This greatly
+improves granularity when using with Git version control.
 
 I prefer a limit of 66 symbols per line for optimal readability, as
 recommended by Bringhurst, R. in "The Elements of Typographic Style"
@@ -43,3 +62,10 @@ Thus, the general consensus is that a line length ranging from 50 to 75
 symbols is acceptable. Therefore, I will adhere to a maximum of 70
 symbols per line. This should provide an average close to the optimal
 66 symbols and align with most recommendations.
+
+To use a hotkey (or toggle auto-rewrap) with Rewrap extension in
+VSCode with the following setting:
+
+    "rewrap.wrappingColumn": 70,
+
+So I can use this with #dendron or #foam
