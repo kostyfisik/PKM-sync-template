@@ -10,3 +10,5 @@ See:
   switch between Personal Knowledge Managers (PKMs).
 - [chore.pkm.limitations](notes/chore.pkm.limitations.md) for usage guidelines.
 - [chore.pkm.settings](notes/chore.pkm.settings.md) my settings on top of required minimum.
+
+For further navigation with [[wikilinks]] you should use some PKM program
