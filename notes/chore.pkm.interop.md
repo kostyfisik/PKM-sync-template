@@ -2,10 +2,14 @@
 id: gmstz6zxqnph7o0ultwngxv
 title: chore.pkm.interop
 desc: ''
-updated: 1688480822524
+updated: 1688482796777
 created: 1685961171626
 ---
 #dendron,  #logseq
+
+# Multiple vaults
+
+#dendron opens all `workspace` related vaults, with the main one located in `notes`. Other PKM programs open each vault individually. If you need more that one vault you may need to copy setting from 'note' vault.
 
 # Dendron
 
