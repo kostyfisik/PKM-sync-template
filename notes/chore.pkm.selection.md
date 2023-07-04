@@ -2,7 +2,7 @@
 id: 72bdo6g97m6vjpdf1f409ki
 title: chore.pkm.selection
 desc: ''
-updated: 1688453821203
+updated: 1688481145496
 created: 1688453821203
 ---
 # Choice factors
@@ -72,9 +72,7 @@ like to maintain a possibility to open and read notes in Logseq, but
 as of July 2023 it is not my choice for editing.
 
 So, you can read you notes in Logseq, but please, __DO NOT EDIT__ them
-for compatibility with other PKMs.
-
-
+for compatibility with other PKM programs.
 
 
 # Outsiders
@@ -87,12 +85,12 @@ features.
 The only notable exception here is Obsidian, which has incredible
 performance, compatibility, and very configurable. 
 
-## Local PKMs
+## Local PKM programs
 
 ### Roam
 ### Mem
 
-## Cloud-based PKMs
+## Cloud-based PKM programs
 
 Most of them own your data ensuring vendor-lock. 
 

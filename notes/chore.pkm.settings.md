@@ -2,7 +2,7 @@
 id: e7dh1jym44nhy32npntrpjp
 title: chore.pkm.settings
 desc: ''
-updated: 1688479713165
+updated: 1688481027140
 created: 1688301887259
 ---
 
@@ -17,10 +17,10 @@ I prefer dark color theme. It is already set in config files for
 
 I prefer using a dark theme and the [JetBrains
 Mono](https://www.jetbrains.com/lp/mono/) monospace font for
-consistency across all PKMs. Note, the JetBrains Mono font is free and
-open-source. It is already set in config file for #obsidian and
-#logseq, but you might need to install it for you system. In VScode
-you my font settings are:
+consistency across all PKM programs. Note, the JetBrains Mono font is
+free and open-source. It is already set in config file for #obsidian
+and #logseq, but you might need to install it for you system. In
+VScode you my font settings are:
 
     "workbench.colorTheme": "Darcula",
     "editor.lineHeight": 1.5,

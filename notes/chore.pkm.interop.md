@@ -2,7 +2,7 @@
 id: gmstz6zxqnph7o0ultwngxv
 title: chore.pkm.interop
 desc: ''
-updated: 1688474620205
+updated: 1688480822524
 created: 1685961171626
 ---
 #dendron,  #logseq
@@ -10,7 +10,7 @@ created: 1685961171626
 # Dendron
 
 Dendron requires frontmatter to every markdown file.  To fix this for
-notes created by other PKMs use
+notes created by other PKM program use
 
     Alt-x Dendron:Doctor fixFrontmatter
 

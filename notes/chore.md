@@ -2,7 +2,7 @@
 id: v8vi14bcbua8pkb18g2rrcz
 title: chore
 desc: ''
-updated: 1688480330688
+updated: 1688481092124
 created: 1685690368687
 ---
 
@@ -11,8 +11,8 @@ created: 1685690368687
 See:
 - [[chore.pkm.installation]] for setup instructions,
 - [[chore.pkm.showcase]] for examples of supported features.
-- [[chore.pkm.interop]] for instructions to switch between Personal
-  Knowledge Managers (PKMs).
+- [[chore.pkm.interop]] for instructions to switch between programs
+  for Personal Knowledge Management (PKM).
 - [[chore.pkm.limitations]] for usage guidelines.
 - [[chore.pkm.settings]] my settings on top of required minimum.
 
@@ -49,11 +49,11 @@ user experience. You can read more about it in his blog post
 [here](https://myttl.blog/what-is-the-exit-plan-for-your-notes-2/).
 
 I also hope that if my note system is interoperable between multiple
-PKMs, I will be able to adapt it to new software as it emerges,
-ensuring continued productivity even if any of the chosen products
-become obsolete. For example, since Dendron is no longer actively
-developed as of late 2022, I am searching for a more future-proof
-format for my notes.
+PKM programs, I will be able to adapt it to new software as it
+emerges, ensuring continued productivity even if any of the chosen
+products become obsolete. For example, since Dendron is no longer
+actively developed as of late 2022, I am searching for a more
+future-proof format for my notes.
 
 # Opinionated settings
   
@@ -69,6 +69,6 @@ See [[chore.pkm.settings]] for more details.
 
 To keep interoperability there is a number of rules that restrict
 usage of advanced features that are unique or have a distinct
-implementation in various PKMs, see [[chore.pkm.limitations]]
+implementation in various PKM programs, see [[chore.pkm.limitations]]
 
 

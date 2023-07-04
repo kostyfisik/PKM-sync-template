@@ -2,7 +2,7 @@
 id: xh95tl2xzopwyhr5m0ituf0
 title: chore.pkm.showcase
 desc: ''
-updated: 1688474145999
+updated: 1688480970318
 created: 1685891826184
 ---
 
@@ -13,7 +13,7 @@ There is an widely recognized attempt to standardize Markdown syntax
 known as [CommonMark Spec](https://spec.commonmark.org/) So a good PKM
 should fully support this standard and try to add as little as
 possible on top of this. For example, __formatting__ and list should
-just work. Few extensions, commonly adopted in various PKMs are 
+just work. Few extensions, commonly adopted in various PKM programs are 
 `[[wikilinks]]` and 
 - [ ] checkboxes
 
@@ -26,7 +26,7 @@ other.
 ## Checkboxes
 
 `- [ ]` and `- [x]` at the start of the line are commonly rendered in
-various PKMs to denote a empty and checked checkboxes, e.g. in a to-do
+various PKM programs to denote a empty and checked checkboxes, e.g. in a to-do
 list.
 
 
