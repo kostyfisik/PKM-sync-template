@@ -1,27 +1,21 @@
 ---
 id: e7dh1jym44nhy32npntrpjp
-title: root.pkm.settings
+title: chore.pkm.settings
 desc: ''
 updated: 1688302121676
 created: 1688301887259
 ---
 
-# Opinionated settings
 
-## No folders/directories
-
-Two major options are to use folders (directories) provided by your
-filesystem or not to use.
-
-
-## Font
+# Font
 
 I prefer using a dark theme and the [JetBrains
 Mono](https://www.jetbrains.com/lp/mono/) monospace font for
 consistency across all PKMs. Note, the JetBrains Mono font is free and
 open-source. 
 
-## Hotkeys 
+
+# Hotkeys 
 
 I utilize the  `Alt + .`  and  `Alt +` ,  hotkeys for forward and backward
 navigation. The keyboard keycups for  `.`  and  `,`  also have  `>`  and  `<`
@@ -29,9 +23,9 @@ symbols on them, making it easy to remember. These keys are located
 close to the right  `Alt`  button, making them easily accessible. I have
 made some minor tweaks to the keyboard shortcuts to make them more
 similar to those in VS Code, which is my default choice of the text editor.
- 
 
-## Line length
+
+# Line length
 
 I prefer a limit of 66 symbols per line for optimal readability, as
 recommended by Bringhurst, R. in "The Elements of Typographic Style"

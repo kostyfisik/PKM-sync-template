@@ -11,12 +11,8 @@
             "id": "ee009f4df825caf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#logseq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +119,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "root.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +140,27 @@
   },
   "active": "ee009f4df825caf9",
   "lastOpenFiles": [
+    "test.md",
+    "chore.pkm.showcase.md",
+    "chore.md",
+    "chore.pkm.interop.md",
+    "chore.pkm.limitations.md",
+    "logseq/bak/logseq/config/2023-07-04T12_14_52.428Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-07-04T12_14_47.778Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-07-04T12_14_43.742Z.Desktop.edn",
+    "logseq/bak/root/2023-07-04T12_12_53.106Z.Desktop.md",
+    "logseq/bak/root",
+    "chore.pkm.selection.md",
+    "chore.pkm.settings.md",
+    "root.md",
+    "chore.limitations.md",
     "root.pkm.settings.md",
+    "chore.pkm.showcase.markdown-link.md",
+    "chore.showcase.md",
+    "sedL6xtf5",
+    "chore.interop.md",
     "journals/2023_07_02.md",
     "journals/2023_07_01.md",
-    "root.md",
     "root.pkm.selection.md",
     "journals/2023-07-02.md",
     "journals/2023-07-01.md",
@@ -168,23 +178,6 @@
     "logseq/bak/root.pkm.settings/2023-07-02T13_47_15.540Z.Desktop.md",
     "logseq/bak/root/2023-07-02T13_45_15.932Z.Desktop.md",
     "logseq/bak/root.pkm.settings/2023-07-02T13_44_40.767Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_42_15.319Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_41_15.140Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_23_17.922Z.Desktop.md",
-    "logseq/bak/root.pkm.settings/2023-07-02T13_22_50.936Z.Desktop.md",
-    "logseq/bak/root.pkm.settings",
-    "logseq/bak/root.pkm.selection/2023-07-02T13_21_38.369Z.Desktop.md",
-    "logseq/bak/root.pkm.selection/2023-07-02T13_20_26.630Z.Desktop.md",
-    "logseq/bak/root.pkm.selection",
-    "logseq/bak/root/2023-07-02T13_17_06.918Z.Desktop.md",
-    "logseq/bak/root/2023-07-02T12_58_02.736Z.Desktop.md",
-    "logseq/bak/root/2023-07-02T12_57_48.211Z.Desktop.md",
-    "logseq/bak/root/2023-07-02T12_56_56.973Z.Desktop.md",
-    "logseq/bak/root/2023-07-02T12_56_06.788Z.Desktop.md",
-    "logseq/bak/root/2023-07-02T12_55_58.032Z.Desktop.md",
-    "logseq/bak/root",
-    "sedJtElYC",
-    "logseq/bak/chore.pkm-selection",
     "notes/assets/sdf.jpg",
     "notes/assets/Pasted image 20230604195944.png",
     "notes/assets/sdf_1685897964239_0.jpg",

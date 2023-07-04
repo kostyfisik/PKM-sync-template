@@ -1,20 +1,24 @@
 ---
 id: gmstz6zxqnph7o0ultwngxv
-title: chore.showcase.interop
+title: chore.pkm.interop
 desc: ''
-updated: 1688134296758
+updated: 1688473314658
 created: 1685961171626
 ---
+#dendron,  #logseq
 
-## Dendron
+# Dendron
 
-Dendron requires frontmatter to every markdown file.  To fix this for notes created by Obsidian and Logseq use
+Dendron requires frontmatter to every markdown file.  To fix this for
+notes created by other PKMs use
 
     Alt-x Dendron:Doctor fixFrontmatter
 
-This will create missing fronmatters. If you keep Dendron  opened in background, note creation in other programs will be followed by fixing them automatically.
+This will create missing fronmatters. If you keep Dendron  opened in
+background, note creation in other programs will be followed by fixing
+them automatically.
 
-## Logseq
+# Logseq
 
 Logseq needs its own specific namespaces to manage notes with same
 title from Dendron's frontmatter. So, to avoid using Logseq namespaces

@@ -294,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["chore.showcase.markdown-link" "chore.showcase" "root"]
+ :favorites ["chore"]
 
  ;; Set flashcards interval.
  ;; Expected value:
