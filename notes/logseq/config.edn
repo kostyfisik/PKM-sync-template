@@ -34,7 +34,7 @@
  ;;   To show old journal files in the app, manually rename the files in the
  ;;   journal directory to match the new format.
  ;; Default value: "yyyy_MM_dd"
- ;; :journal/file-name-format "yyyy_MM_dd"
+ :journal/file-name-format "yyyy-MM-dd"
 
  ;; Enable tooltip preview on hover.
  ;; Default value: true

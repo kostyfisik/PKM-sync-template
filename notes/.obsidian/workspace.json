@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff71de74a3543798",
+        "id": "b3ccd3552fd58ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "7aecb012aa565f4f",
+            "id": "ee009f4df825caf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chore.showcase.md",
-                "mode": "source",
+                "file": "root.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235.5
   },
   "right": {
     "id": "21d24fd9d7e73f11",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chore.showcase.md",
+                "file": "root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chore.showcase.md",
+                "file": "root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chore.showcase.md"
+                "file": "root.md"
               }
             }
           }
@@ -134,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,44 +145,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aecb012aa565f4f",
+  "active": "ee009f4df825caf9",
   "lastOpenFiles": [
-    "logseq/bak/chore.showcase.interop/2023-06-30T14_11_38.885Z.Desktop.md",
-    "logseq/bak/chore.showcase.markdown-link/2023-06-30T14_09_17.080Z.Desktop.md",
-    "logseq/bak/chore.showcase.markdown-link",
-    "chore.showcase.interop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_18_31.213Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_17_15.012Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_17_02.265Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_16_57.462Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_16_42.874Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_12_26.099Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_12_02.673Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_11_11.709Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_06_39.102Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_06_21.748Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-30T13_05_42.645Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop",
+    "root.pkm.settings.md",
+    "journals/2023_07_02.md",
+    "journals/2023_07_01.md",
     "root.md",
-    "logseq/bak/root/2023-06-07T15_03_33.639Z.Desktop.md",
-    "logseq/bak/chore.showcase/2023-06-27T06_44_55.858Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T16_06_39.081Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_55_12.762Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_54_50.998Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_54_26.287Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_54_20.977Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_53_53.542Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_53_17.695Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_51_30.123Z.Desktop.md",
-    "logseq/bak/chore.showcase.interop/2023-06-26T15_50_51.859Z.Desktop.md",
-    "logseq/bak/logseq/custom/2023-06-06T07_13_59.819Z.Desktop.css",
-    "logseq/bak/logseq/custom/2023-06-06T07_13_52.781Z.Desktop.css",
-    "logseq/bak/logseq/custom",
+    "root.pkm.selection.md",
+    "journals/2023-07-02.md",
+    "journals/2023-07-01.md",
+    "Untitled 1.canvas",
+    "logseq/bak/journals/2023-07-01/2023-07-02T13_55_08.759Z.Desktop.md",
+    "logseq/bak/journals/2023-07-01",
+    "logseq/bak/journals",
+    "journals/2023-07-02 copy.md",
+    "logseq/bak/logseq/config/2023-07-02T13_53_32.445Z.Desktop.edn",
+    "logseq/bak/logseq/config",
     "logseq/bak/logseq",
+    "Untitled.canvas",
+    "logseq/bak/root.pkm.selection/2023-07-02T13_48_04.746Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_47_38.557Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_47_15.540Z.Desktop.md",
+    "logseq/bak/root/2023-07-02T13_45_15.932Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_44_40.767Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_42_15.319Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_41_15.140Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_23_17.922Z.Desktop.md",
+    "logseq/bak/root.pkm.settings/2023-07-02T13_22_50.936Z.Desktop.md",
+    "logseq/bak/root.pkm.settings",
+    "logseq/bak/root.pkm.selection/2023-07-02T13_21_38.369Z.Desktop.md",
+    "logseq/bak/root.pkm.selection/2023-07-02T13_20_26.630Z.Desktop.md",
+    "logseq/bak/root.pkm.selection",
+    "logseq/bak/root/2023-07-02T13_17_06.918Z.Desktop.md",
+    "logseq/bak/root/2023-07-02T12_58_02.736Z.Desktop.md",
+    "logseq/bak/root/2023-07-02T12_57_48.211Z.Desktop.md",
+    "logseq/bak/root/2023-07-02T12_56_56.973Z.Desktop.md",
+    "logseq/bak/root/2023-07-02T12_56_06.788Z.Desktop.md",
+    "logseq/bak/root/2023-07-02T12_55_58.032Z.Desktop.md",
     "logseq/bak/root",
-    "chore.showcase.markdown-link",
-    "logseq/bak/chore.showcase",
-    "logseq/bak",
+    "sedJtElYC",
+    "logseq/bak/chore.pkm-selection",
     "notes/assets/sdf.jpg",
     "notes/assets/Pasted image 20230604195944.png",
     "notes/assets/sdf_1685897964239_0.jpg",
