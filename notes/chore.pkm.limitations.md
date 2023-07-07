@@ -2,53 +2,61 @@
 id: ahtqux4togd8bnulftoqxv3
 title: chore.pkm.limitations
 desc: ''
-updated: 1688481129600
+updated: 1688741316877
 created: 1688469945832
+review: 2023-07-07
 ---
 
-To keep interoperability there is a number of rules that restrict
-usage of advanced features that are unique or have a distinct
-implementation in various PKM programs
+To ensure interoperability, there are rules in place that limit the use of advanced features that are specific to or implemented differently in different PKM programs. See [[chore.pkm.interop]] for more detailed information.
 
 
 # Notes Hierarchy. 
 
-It is recommended to avoid using directories for notes. Instead, I
-utilize Dendron's dot notation and leverage its refactoring
-capabilities to automatically manage note organization. If needed, it
-should be relatively easy to create a Python script or find a plugin
-in Obsidian/Logseq that has an advanced support of this notation. Most
-PKM programs update links when a note is renamed in PKM interface,
-making it simple to move a note within your note hierarchy by renaming
-it.
+**It is recommended to avoid using directories for notes**. Instead, I
+utilize Dendron's dot notation. For example, a note about the Python
+programming language can be named as `code.lang.python.md`, and a note
+about optimization algorithms can be named `code.alg.optimization.md`.
+
+Most Personal Knowledge Management (PKM) programs update links when a
+note is renamed in the PKM interface, making it simple to move a note
+within your note hierarchy by just renaming it. When using Dendron,
+you can take advantage of its refactoring capabilities to
+automatically manage large-scale note organization.
 
 
 # Links
 
-To create links between notes, use naked style wikilinks. For example,
-[[chore.pkm.showcase]]. 
+**To create links between notes, use naked style wikilinks**. For example,
+`[[chore.pkm.showcase]]`. 
  
 In my setup, the wikilink "address" is the same as the note filename
-(without an extension). Avoid using note titles and piping as they are
-not consistently supported across different PKM programs. While
-wikilinks are convenient and compatible with most PKM software, there
-are still some compatibility issues. Local links to other notes and
-wikilinks are not part of the Markdown syntax and this pose
-interoperability challenges. For more information on switching between
-PKM programs, refer to [[chore.pkm.interop]].
+(without an extension). Avoid using note titles, section references
+and piping as they are not consistently supported across different PKM
+programs. Local links to other notes and wikilinks are not part of the
+Markdown syntax and this pose interoperability challenges. For more
+specific information on switching between PKM programs, refer to
+[[chore.pkm.interop]].
 
 
 # Tags (hashtags)
 
-Using `#`some-word to tag content seems to be supported in all PKM
+Using `#my-tag-name` to tag content seems to be supported in all PKM
 programs. To keep naming safe use only dash `-`, underscore `_`, and
 alphanumeric symbols. See #dendron, #obsidian, #logseq examples.
+Ignore `tag.my-tag-name.md` files if you are not using Dendron.
 
 
 # Automation
 
-I aim to ensure that all notes remain compatible with every supported
-PKM software through automation, such as using git pre-commit hooks.
-Regardless, it should be possible to convert all notes to a format
-that is compatible with any note-taking system in less than 1 second,
-preferably using a script or tool.  See also [[chore.pkm.interop]]
+My goal is to make sure that all notes are compatible with every
+supported PKM software. In future this is could achieved through
+automation, specifically by utilizing git pre-commit hooks.
+
+Currently, the only form of automation in place is the
+`notes\fix-title-logseq.sh` script. This script is used to resolve
+conflicts in note titles between Dendron and Logseq.
+
+The ultimate objective is to be able to convert all notes created in
+any supported PKM program to the format that can be used within all of
+them.
+

@@ -2,7 +2,7 @@
 id: 72bdo6g97m6vjpdf1f409ki
 title: chore.pkm.selection
 desc: ''
-updated: 1688481145496
+updated: 1688741602220
 created: 1688453821203
 ---
 # Choice factors
@@ -22,9 +22,11 @@ which can aid in note exploration, may be important, but as I am only
 adopting the ZK approach, I am unsure of how critical this requirement
 is.
 
+
 # Top choices
 
 All mentioned choices store files locally in Markdown format, support note linking (including Wikilinks), provide easy backlinks exploration. 
+
 
 ## Dendron
     
@@ -57,10 +59,12 @@ drawback is that it is not open-source, which means there is a
 possibility that it may cease to provide new updates in the coming
 decades.
 
+
 ## Foam
 
 Foam is another extension for VScode, like Dendron is seems to have
 all the basics, however, not so many features on top of this.
+
 
 ## Logseq
 
@@ -88,7 +92,10 @@ performance, compatibility, and very configurable.
 ## Local PKM programs
 
 ### Roam
+- [ ] TODO
+
 ### Mem
+- [ ] TODO
 
 ## Cloud-based PKM programs
 
@@ -105,6 +112,7 @@ I am not using Evernote, however, there is a nice description, why it
 is hard to use Evernote as Zettelkasten, see [blog post](https://mattgiaro.com/evernote-zettelkasten/)
 
 ### Notion
-
 Seems to be amazing... And very popular, so it has a number of options
-to convert it (once) to Obsidian. 
+to convert it (once) to Obsidian.  It has an API, so everyone is
+welcome to build it's onw Obsidian-Notion integration using [Notion
+API](https://developers.notion.com/)

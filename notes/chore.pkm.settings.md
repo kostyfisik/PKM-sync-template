@@ -2,8 +2,9 @@
 id: e7dh1jym44nhy32npntrpjp
 title: chore.pkm.settings
 desc: ''
-updated: 1688481027140
+updated: 1688741553640
 created: 1688301887259
+review: 2023-07-07
 ---
 
 # Color Theme
@@ -20,9 +21,8 @@ Mono](https://www.jetbrains.com/lp/mono/) monospace font for
 consistency across all PKM programs. Note, the JetBrains Mono font is
 free and open-source. It is already set in config file for #obsidian
 and #logseq, but you might need to install it for you system. In
-VScode you my font settings are:
+VScode  my font settings are:
 
-    "workbench.colorTheme": "Darcula",
     "editor.lineHeight": 1.5,
     "editor.fontFamily": "'JetBrains Mono', Consolas, 'JetBrains Mono', monospace",
     "editor.fontSize": 18,
@@ -37,7 +37,7 @@ I utilize the  `Alt + .`  and  `Alt +` ,  hotkeys for forward and backward
 navigation. The keyboard keycups for  `.`  and  `,`  also have  `>`  and  `<`
 symbols on them, making it easy to remember. These keys are located
 close to the right  `Alt`  button, making them easily accessible. I have
-made some minor tweaks to the keyboard shortcuts to make them more
+made some other minor tweaks to the keyboard shortcuts to make them more
 similar to those in VS Code, which is my default choice of the text editor.
 
 
@@ -63,7 +63,7 @@ symbols is acceptable. Therefore, I will adhere to a maximum of 70
 symbols per line. This should provide an average close to the optimal
 66 symbols and align with most recommendations.
 
-To use a hotkey (or toggle auto-rewrap) with Rewrap extension in
+I use a hotkey (or toggle auto-rewrap) with Rewrap extension in
 VSCode with the following setting:
 
     "rewrap.wrappingColumn": 70,

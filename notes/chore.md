@@ -2,8 +2,9 @@
 id: v8vi14bcbua8pkb18g2rrcz
 title: chore
 desc: ''
-updated: 1688481092124
+updated: 1688738273895
 created: 1685690368687
+review: 2023-07-07
 ---
 
 # Quick start
@@ -16,19 +17,30 @@ See:
 - [[chore.pkm.limitations]] for usage guidelines.
 - [[chore.pkm.settings]] my settings on top of required minimum.
 
+
+# Objective
+
+The objective is to create a durable note-taking system that is
+designed to last. In order to achieve this, I would like to organize
+my notes in a way that allows me to use them in multiple personal
+knowledge management (PKM) programs at the same time, or with minimal
+effort required to switch between programs.
+
+
 # Rational
   
 I am looking for a note-taking solution that is future-proof,
-portable, and convenient. While traditional paper notes are not
-portable or convenient as they accumulate, I have found that using a
-computer system is more robust. Howeverver, over the years, I have
-experienced losses as computer systems evolve and vendors come and go.
-Therefore, I have chosen plain text formats like Markdown or LaTeX for
-my computer note format. These formats are easy to use, maintain, and
+portable, and convenient. Traditional paper notes are not portable or
+convenient as they accumulate, so I have found that using a computer
+system is more robust. However, over the years, I have experienced
+losses as computer systems evolve and vendors come and go. Therefore,
+I have chosen plain text formats like Markdown or LaTeX for my
+computer note format. These formats are easy to use, maintain, and
 have been around for decades. Text files do not rely on any specific
 vendor's services, and they can be easily backed up and synced across
 devices, including the cloud. Plain text files can be accessed and
-navigated with minimal or no specialized software. However, having
+navigated with minimal or no specialized software, they are also
+friendly to version control systems like Git. However, having
 specialized software for personal knowledge management (PKM) adds
 convenience, so I would like to have one. 
  
@@ -42,10 +54,11 @@ portable and durable. However, I can tolerate losing some ongoing
 "work-in-progress" notes over time, as I make use of convenient
 features from each software. This mainly relates to ongoing project
 management, to-do lists, structuring complex topics as "note
-prototypes," and other things that may become irrelevant in the
-future. In general, I agree with Anders Thoresson's sentiment of
-prioritizing the longevity of my notes collection over features and
-user experience. You can read more about it in his blog post
+prototypes," floating notes, and other things that may become
+irrelevant in short-term period of time. In general, I agree with
+Anders Thoresson's sentiment of prioritizing the longevity of my notes
+collection over features and user experience. You can read more about
+it in his blog post
 [here](https://myttl.blog/what-is-the-exit-plan-for-your-notes-2/).
 
 I also hope that if my note system is interoperable between multiple
@@ -55,20 +68,26 @@ products become obsolete. For example, since Dendron is no longer
 actively developed as of late 2022, I am searching for a more
 future-proof format for my notes.
 
+
 # Opinionated settings
   
-It is an opinionated setup, but you are welcome to make
-changes by forking and customizing it. However, it would be
-appreciated if you could contribute back any changes that improve
-compatibility with the mentioned PKM software or add new ones to the
-list.
+It is an opinionated setup, but you have the freedom to modify it by
+forking and personalizing it according to your preferences. However,
+it would be great if you could share any changes you make that enhance
+compatibility with the mentioned PKM software or introduce new ones to
+the existing list.
 
 See [[chore.pkm.settings]] for more details.
 
+
 # Compatibility Limitation
 
-To keep interoperability there is a number of rules that restrict
-usage of advanced features that are unique or have a distinct
-implementation in various PKM programs, see [[chore.pkm.limitations]]
+To ensure compatibility, there are certain rules that limit the use of advanced features that are specific to different PKM programs. For more information, refer to [[chore.pkm.limitations]].
 
 
+# Note
+
+Most of the text in this template was rewritten using ChatGPT with the following prompt:
+
+    Rewrite in plain English to improve readability using Markdown format:
+    __text to rewrite__

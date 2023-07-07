@@ -2,10 +2,12 @@
 id: xh95tl2xzopwyhr5m0ituf0
 title: chore.pkm.showcase
 desc: ''
-updated: 1688482184841
+updated: 1688742941615
 created: 1685891826184
 ---
 
+You can open this file to see which features are working in various
+PKM programs and which are not...
 
 # Markdown
   
@@ -21,21 +23,24 @@ just work. Few extensions, commonly adopted in various PKM programs are
 
 Using a pair of opening  `[[` and closing `]]` square brackets with
 some text in between seems to be widely used for linking notes to each
-other.
+other. A wiki link to root file of current note hierarchy: [[chore]]
 
 ## Checkboxes
 
 `- [ ]` and `- [x]` at the start of the line are commonly rendered in
-various PKM programs to denote a empty and checked checkboxes, e.g. in a to-do
-list.
+various PKM programs to denote a empty and checked checkboxes, e.g. in
+a to-do list.
 
 
 # Links navigation
 
-Linking notes is the major feature of for  any knowledge management. However, there is no full interoperability of linking is not very good between considered solutions.
+Linking notes is the major feature of for  any knowledge management.
+However, there is no full interoperability of linking is not very good
+between considered solutions. Anyway, linking to local files is not
+part of Markdown format.
 
 - Wiki style
-    - use naked style as a preferred one 
+    - use naked style as the only preferred one 
             [[chore.pkm.showcase.markdown-link]]
             (see [[chore.pkm.interop]])
     - piped (so using with some other rendered title)

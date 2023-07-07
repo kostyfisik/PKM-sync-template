@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chore.md",
+                "file": "chore.pkm.showcase.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#foam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chore.md",
+                "file": "chore.pkm.showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chore.md",
+                "file": "chore.pkm.showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chore.md"
+                "file": "chore.pkm.showcase.md"
               }
             }
           }
@@ -147,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be1f5c7fe15e2083",
+  "active": "ee009f4df825caf9",
   "lastOpenFiles": [
+    "logseq/bak/chore.pkm.showcase/2023-07-07T17_39_12.227Z.Desktop.md",
+    "logseq/bak/chore.pkm.showcase",
+    "logseq/bak/chore.pkm.settings/2023-07-07T17_39_12.225Z.Desktop.md",
+    "logseq/bak/chore.pkm.settings",
+    "logseq/bak/chore.pkm.selection/2023-07-07T17_39_12.222Z.Desktop.md",
+    "logseq/bak/chore.pkm.selection",
+    "logseq/bak/chore.pkm.limitations/2023-07-07T17_39_12.219Z.Desktop.md",
+    "logseq/bak/chore.pkm.limitations",
+    "logseq/bak/chore.pkm.interop/2023-07-07T17_39_12.172Z.Desktop.md",
+    "logseq/bak/chore.pkm.interop",
+    "logseq/bak/chore.pkm.installation/2023-07-07T17_39_12.136Z.Desktop.md",
+    "logseq/bak/chore/2023-07-07T17_39_12.126Z.Desktop.md",
+    "logseq/bak/chore.pkm.installation",
+    "logseq/bak/chore",
+    "logseq/bak",
+    "chore.md",
+    "tags.dendron.md",
+    "chore.pkm.interop.md",
     "root.md",
     "logseq/bak/root/2023-07-04T14_17_48.156Z.Desktop.md",
     "logseq/bak/chore.pkm.showcase/2023-07-04T14_17_48.153Z.Desktop.md",
-    "logseq/bak/chore.pkm.showcase",
     "logseq/bak/chore.pkm.settings/2023-07-04T14_17_48.145Z.Desktop.md",
-    "logseq/bak/chore.pkm.settings",
     "logseq/bak/chore.pkm.limitations/2023-07-04T14_17_48.142Z.Desktop.md",
-    "logseq/bak/chore.pkm.limitations",
     "logseq/bak/chore.pkm.interop/2023-07-04T14_17_48.136Z.Desktop.md",
-    "logseq/bak/chore.pkm.interop",
     "logseq/bak/chore/2023-07-04T14_17_47.949Z.Desktop.md",
-    "logseq/bak/chore",
     "chore.pkm.settings.md",
-    "chore.md",
     "chore.pkm.limitations.md",
     "chore.pkm.showcase.md",
-    "chore.pkm.interop.md",
     "chore.pkm.installation.md",
     "chore.pkm.md",
     "chore.pkm.selection.md",
     "test.md",
     "logseq/bak/logseq/config/2023-07-04T12_14_52.428Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-07-04T12_14_47.778Z.Desktop.edn",
-    "logseq/bak/logseq/config/2023-07-04T12_14_43.742Z.Desktop.edn",
     "logseq/bak/root/2023-07-04T12_12_53.106Z.Desktop.md",
-    "logseq/bak/root",
     "chore.limitations.md",
-    "root.pkm.settings.md",
-    "chore.pkm.showcase.markdown-link.md",
-    "chore.showcase.md",
-    "sedL6xtf5",
-    "chore.interop.md",
-    "journals/2023_07_02.md",
-    "journals/2023_07_01.md",
-    "root.pkm.selection.md",
-    "journals/2023-07-02.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "notes/assets/sdf.jpg",

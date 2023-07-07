@@ -1,6 +1,23 @@
-This is a template to sync between Obsidian, Foam, Logseq (read-only
-mode), and Dendron. With minimal effort and following some basic rules
-you can switch between them with minimal effort. 
+# Objective
+
+The objective of this template is to create a long-lasting note-taking
+system. To achieve this, I aim to organize my notes in a manner that
+allows me to use them in multiple personal knowledge management (PKM)
+programs simultaneously or with minimal effort when switching between
+programs.
+
+# Tested Programs
+
+I have tested the following programs to ensure they can work in sync
+using the same note files:
+- Obsidian
+- Foam
+- Logseq (read-only mode)
+- Dendron
+
+By following some basic rules, it is possible to switch between PKM
+programs almost effortlessly.
+
 
 See:
 - [chore](notes/chore.md) for extended description
