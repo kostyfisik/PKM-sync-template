@@ -6,6 +6,15 @@ allows me to use them in multiple personal knowledge management (PKM)
 programs simultaneously or with minimal effort when switching between
 programs.
 
+# Quick start
+
+Open the root directory of the project to use:
+  - `Dendron` plugin in `VS Code`  
+
+Open `notes` directory as a vault to use:
+  - `Obsidian`
+  - `Foam` plugin in `VS Code`
+
 # Tested Programs
 
 I have tested the following programs to ensure they can work in sync
